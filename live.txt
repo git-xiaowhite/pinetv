@@ -386,8 +386,6 @@ CCM,http://120.84.96.66:808/hls/85/index.m3u8?blog.ntnas.top
 香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8天映经典,http://gxfrg007.8800.org:8282/tsfile/live/1053_1.m3u8
 天映经典,http://27.47.71.97:808/hls/62/index.m3u8
 
-
-
 广酒源丨体育,#genre#
 广东体育,http://159.75.85.63:8765/telegram@feiyangdigital-gdty.m3u8 
 翡翠台,http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8 
@@ -1069,43 +1067,10 @@ CCTV17,http://39.135.138.58:18890/PLTV/88888888/224/3221225907/index.m3u8$超清
 湖北卫视,http://39.135.138.58:18890/PLTV/88888910/224/3221225699/index.m3u8$高清1080P
 
 YanG丨央卫视,#genre#
-咪咕体育-4K-HLG源,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8
-咪咕体育-4K-HLG源-2,http://39.135.42.203:80/000000001000/3000000010000005180/index.m3u8
-咪咕体育-4K-HLG源-3,http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
 CCTV5-高清(1),http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV5-高清(2),http://111.29.9.47:6610/000000001000/1000000005000025222/index.m3u8?channel-id=ystenlive&Contentid=1000000005000025222&livemode=1&stbId=3
 CCTV5-高清(3),http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
 广东体育,http://121.51.249.88/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
-BTV纪实科教 8K,http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
-CCTV16 4K 「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
-CCTV16 4K,http://live.cooltv.top/tv/aishang.php?id=cctv164k
-咪咕 4K,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?
-河南卫视 4K 「IPV6」,http://[2409:8087:4400:20:1:a0f:12:f]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-SiTV欢笑剧场4K 「IPV6」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-SiTV欢笑剧场4K,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226582/index.m3u8
-爱上4K 「IPV6」,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-爱上4K 「IPV6」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-爱上4k,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
-4K超高清电影,http://182.150.115.26:8091/custom28.m3u8
-纯享4k,http://39.135.138.58:18890/PLTV/88888888/224/3221225786/index.m3u8
-纯享4k,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
-纯享4k,http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8
-苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-影院4k,http://111.20.105.192:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-斗鱼4k,http://epg.112114.xyz/douyu/9249162
-Bloomberg TV+ 4K,https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
-Clarity 4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-Love Nrture 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-MUZZIK ZZ4000 4K,http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
-Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-CETV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225917/index.m3u8?fmt=ts2hls
-CETV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
-CETV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225661/index.m3u8
-CETV2,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226242/index.m3u8
-CETV4,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225937/index.m3u8
-CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-CCTV4K,https://p.ggiptv.com/v/4k.m3u8
 CCTV1,http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
 CCTV1,http://219.140.56.34:3333/tsfile/live/0001_1.m3u8
 CCTV1,http://39.137.49.76:8080/PLTV/88888888/224/3221225618/index.m3u8?
@@ -2176,6 +2141,20 @@ CNC中文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225694/index
 浙江卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225703/index.m3u8
 浙江卫视,http://112.19.214.90:8883/tsfile/live/0124_1.m3u8
 浙江卫视,http://222.240.82.92:9901/tsfile/live/0124_1.m3u8
+
+YanG丨电竞赛事,#genre#
+暴雪·游戏,http://tc-tct.douyucdn2.cn/dyliveflv1/525207rUBsWpKrbH_2000p.flv?wsAuth=b99202a05d1ace952240eb88227f82bb&token=cpn-androidmpro-0-525207-6d6087ff47bebf4b5f7319afeec10aafdeb782a2ad389c8d&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+绝地求生·PGC,http://tc-tct.douyucdn2.cn/dyliveflv1/100rPCLP_2000.flv?wsAuth=57c9e2f98378658f92fd61fc2a7c50f0&token=cpn-androidmpro-0-100-7280476511a877c27e63dccc58624acea75be41362f58e9c&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+穿越火线,http://tc-tct.douyucdn2.cn/dyliveflv1/605964rzzgGEOZHr.flv?wsAuth=43ef2d796067cbec9c238c73235a1005&token=cpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe7838e28994acafb3964&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+和平精英,http://tc-tct.douyucdn2.cn/dyliveflv1/999rx47n2pp8pKD_2000.flv?wsAuth=6c429f39afed615e842e02ad1a9b1c6e&token=cpn-androidmpro-0-999-d32d75306aab2a7980ad37445844bcccf012d2bb110b5c33&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+梦幻西游·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/9163712rMgvzHPS8.flv?wsAuth=08386df29327fb79ef1cf360dd01e99c&token=cpn-androidmpro-0-9163712-b202112df1a8ff8ce762e1d3561b3623df9da0ea0a74880e&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+跑跑卡丁车,http://tc-tct.douyucdn2.cn/dyliveflv1/7722576rWHyhVf6Z_2000.flv?wsAuth=05a690d94290609839e7c868f44fbc3d&token=cpn-androidmpro-0-7722576-6b878e1c279c4ee5468d3b8183a8170664764100093885bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+王者荣耀,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=e06e8fc59b6e23439332b7caf1b2687d&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18d8fe12b672922635bfc8c2d455179f350&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+英雄联盟,http://tc-tct.douyucdn2.cn/dyliveflv1a/9128222rt7NBHJIq_2000.flv?wsAuth=d317a15fb8514c6d11bbc5848fcd6aa2&token=cpn-androidmpro-0-9128222-114891ee596d2037b2f67b107cd98197aaaf48e0cd5c0c58&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+英雄联盟·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/10982710rOBbNjCh.flv?wsAuth=4fe85fbb8954b9209ad62a6a15277e95&token=cpn-androidmpro-0-10982710-125adce98aed74bad15925c865fb2bc5d91b96ac65ad1ad5&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+CSGO,http://tc-tct.douyucdn2.cn/dyliveflv1/601514rYyuBBDiJK_2000.flv?wsAuth=392e2081de888c961c5b04e1cc969e2a&token=cpn-androidmpro-0-601514-ef59ba1cfb089365430a29ba0e9fabff647f749d2b368bd8&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+LOL·云顶之弈,http://tc-tct.douyucdn2.cn/dyliveflv1/522423rw7NgKaYl9_2000p.flv?wsAuth=ce3c0d32c960ce39c10717b795f7ddf9&token=cpn-androidmpro-0-522423-99737a9b5bf363c27f62ed65c0f1025bd1ccd3a301de7e93&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 
 YanG丨台港,#genre#
 凤凰卫视中文台,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
